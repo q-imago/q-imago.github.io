@@ -1,0 +1,20 @@
+/* Override Logo Sizing */
+#avatar {
+  width: 95%;
+  height: auto;
+  display: inline-block;
+}
+
+/* adjust for image white space */
+.profile-block {
+    padding: 0px 15px 10px;
+}
+
+/* adjust sidebar background color */
+.header {
+    background-color: #f0f0f0;
+}
+
+.sidebar-form {
+    border: 1px solid #000;
+}

@@ -3,204 +3,155 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://q-imago.com/tags/biomed/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/accu-chek/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/catalogue/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/2020/05/accu-chek-glucometer/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/analyzer/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://q-imago.com/categories/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/clinic/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/custom/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/covid-19/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/device/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/diagnostics/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/digitizer/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/dialysis/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/ecg/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/2020/05/dialysis-machine/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/2020/05/ecg-machine/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://q-imago.com/categories/equipments/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/ezplex/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/fujifilm/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/garment/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/2020/05/fcr-prima-t2-digitizer/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/images/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/glucometer/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/laboratory/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/hematology/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/mobile/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/hycel/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/2020/05/mobile-clinic/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/2020/05/hematology-analyzer-hycel-hy-6400/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/2020/05/mobile-testing-lab/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/hyundai/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/2020/05/molecular-diagnostics-for-covid-19/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/2020/05/hyundai-h350-custom-van/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/pcr/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/2020/05/personal-protective-equipment/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/measuring/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://q-imago.com/posts/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/tags/ppe/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/tags/protective/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/tags/realtime/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/tags/showcase/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/tags/sml/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/2020/05/sml-ezplex-real-time-pcr-testing-kit/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/categories/supplies/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://q-imago.com/tags/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://q-imago.com/tags/testing-kit/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://q-imago.com/tags/van/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

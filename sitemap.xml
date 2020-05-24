@@ -3,6 +3,160 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://q-imago.com/categories/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/ct-scan/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/categories/equipments/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/face/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/infrared/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/intelligent/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/2020/05/intelligent-temperature-face-recognition-and-disinfecting-door/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/2020/05/lean-oem-digital-ir-infrared-body-thermometer-non-contact-forehead-manufacturers/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/lien/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/neusoft/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/2020/05/neusoft-ct-scan-16-slices/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/posts/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/recognition/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/slices-16/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/sterilizing/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/temperature/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/thermometer/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/yugong/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/g.e./</loc>
+    <lastmod>2020-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/2020/05/g-e-f6-ultrasound/</loc>
+    <lastmod>2020-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://q-imago.com/tags/ultrasound/</loc>
+    <lastmod>2020-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://q-imago.com/tags/accu-chek/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -18,13 +172,6 @@
   
   <url>
     <loc>https://q-imago.com/tags/analyzer/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/categories/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -60,13 +207,6 @@
   
   <url>
     <loc>https://q-imago.com/2020/05/ecg-machine/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/categories/equipments/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -130,20 +270,6 @@
   
   <url>
     <loc>https://q-imago.com/tags/measuring/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/posts/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://q-imago.com/tags/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
